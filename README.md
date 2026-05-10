@@ -64,3 +64,9 @@ Follow these steps to get the project running locally:
 > ```powershell
 > pip install Flask
 > ```
+
+## Contributors
+
+1. Akash R (Akash-r-git)
+
+2. Gokul (GOKUL-RAMKI)
