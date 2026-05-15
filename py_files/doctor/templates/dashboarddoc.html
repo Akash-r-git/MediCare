@@ -44,7 +44,7 @@
     <!--  FIXED DECLINE -->
     <form method="POST" action="{{ url_for('doctor.decline') }}">
       <input type="hidden" name="patientId" value="{{ p.patientId }}">
-      <input type="hidden" name="date" value="{{ p.date }}">  <!-- 🔥 IMPORTANT -->
+      <input type="hidden" name="date" value="{{ p.date }}"> 
       <button style="color:red;">Decline</button>
     </form>
   </div>
